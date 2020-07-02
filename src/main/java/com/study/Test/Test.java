@@ -17,6 +17,7 @@ public class Test {
         Logger logger = LoggerFactory.getLogger(Test.class);
         logger.debug("This is log");
         logger.info("This is info log");
+        logger.info("This is info log");
 
         String address="www.baidu.com";
         int state=0;
@@ -32,7 +33,6 @@ public class Test {
             System.out.println(connectionStr);
             logger.info(connectionStr);
             if(connectionStr.indexOf("0% 丢失")!=-1){
-
                 System.out.println("===the internet working===");
                 logger.info("===the internet working===");
                 state= 1;

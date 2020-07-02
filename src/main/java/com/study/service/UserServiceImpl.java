@@ -18,5 +18,9 @@ public class UserServiceImpl implements UserServiceInf {
         return this.userDao.selectByPrimaryKey(userId);
     }
 
+    public int insert(User user) {
+        // TODO Auto-generated method stub
+        return this.userDao.insert(user);
+    }
 }
 

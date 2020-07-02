@@ -7,8 +7,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="761b707f-ceb6-4e0d-9c11-879321ae722f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/service/ProvinceServiceInf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/service/ProvinceServinceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/file/down.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/upload.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/DataCollection/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/DataCollection/MyCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/Test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/service/UserServiceInf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/service/UserServiceInf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/DataCollection/MyCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/DataCollection/MyCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/Test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/Test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/service/UserServiceInf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/com/study/service/UserServiceInf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/classes/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SsmBase/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SsmBase/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/DataCollection/MyCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/DataCollection/MyCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/service/UserServiceInf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/service/UserServiceInf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +88,7 @@
         <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="HTML File" />
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -87,10 +119,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41149426" />
     <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/file" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.SsmBase [mybatis-generator:generate,-e]">
+  <component name="RunManager" selected="Tomcat Server.Unnamed2">
     <configuration name="MyCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.study.DataCollection.MyCollection" />
       <module name="com.study" />
@@ -263,8 +300,31 @@
       <workItem from="1583638662678" duration="2551000" />
       <workItem from="1583642560645" duration="8157000" />
       <workItem from="1583663678810" duration="1211000" />
-      <workItem from="1583673135934" duration="6194000" />
+      <workItem from="1583673135934" duration="22691000" />
+      <workItem from="1583824910783" duration="3820000" />
+      <workItem from="1583837263447" duration="6366000" />
+      <workItem from="1584421390720" duration="855000" />
+      <workItem from="1584516085069" duration="1099000" />
+      <workItem from="1584868248302" duration="495000" />
+      <workItem from="1584960992668" duration="523000" />
+      <workItem from="1585032823340" duration="989000" />
+      <workItem from="1585198594608" duration="1882000" />
+      <workItem from="1585277813079" duration="1330000" />
+      <workItem from="1585533993388" duration="699000" />
+      <workItem from="1586585118202" duration="527000" />
+      <workItem from="1587270453547" duration="280000" />
+      <workItem from="1588571277321" duration="26000" />
+      <workItem from="1588572469703" duration="112000" />
+      <workItem from="1588854919039" duration="1387000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1583684643466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583684643466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,10 +335,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
 </project>

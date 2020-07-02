@@ -1,13 +1,24 @@
 package com.study.DataCollection;
 
+import com.alibaba.fastjson.JSON;
+import com.study.mapper.CityMapper;
+import com.study.mapper.CountyMapper;
+import com.study.mapper.ProvinceMapper;
+import com.study.model.Province;
+import com.study.service.ProvinceServiceInf;
+import org.springframework.stereotype.Component;
+
+import javax.annotation.Resource;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.List;
 
+@Component("myCollection")
 public class MyCollection {
 
-    public static String analysisUrl(String url){
+    public String analysisUrl(String url){
         HttpURLConnection httpConnection = null;
         String output = "";
         try {
@@ -28,11 +39,5 @@ public class MyCollection {
             httpConnection.disconnect();
         }
         return output;
-    }
-
-    public static void main(String[] args) {
-        String url = "http://guolin.tech/api/china";
-        String result = analysisUrl(url);
-        System.out.println(result);
     }
 }
